@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44437283167",
+    "project_id": "freelo-c6a03",
+    "storage_bucket": "freelo-c6a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44437283167:android:4fa76d8f7f83404e18d6ea",
+        "android_client_info": {
+          "package_name": "com.example.freelo_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44437283167-6imj0b7pr6mf50098b4jchvuuuo9rfuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freelo_ecommerce",
+            "certificate_hash": "9967c06dff2b0591a001f0889e7ad0af78d60eb5"
+          }
+        },
+        {
+          "client_id": "44437283167-vf4lnl3ahtr5pvm7jjbpibtu1s4smo61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtuUAdepyC_ijDDhv3V3wxgcLSfoUZXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44437283167-k1pmv0r1sh01alnsrd1p3gdqam2r49dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
